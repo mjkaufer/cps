@@ -1,0 +1,22 @@
+{
+  "name": "cps",
+  "version": "1.0.0",
+  "description": "Chromatic Pitch Shifter - Take in an mp3 file and shift its pitch chromatically for as many octaves as you'd like",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mjkaufer/cps.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mjkaufer/cps/issues"
+  },
+  "homepage": "https://github.com/mjkaufer/cps#readme",
+  "dependencies": {
+    "prompt": "^1.0.0"
+  }
+}
